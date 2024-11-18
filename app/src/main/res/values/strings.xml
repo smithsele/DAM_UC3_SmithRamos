@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DAM_UC3_SmithRamos</string>
+    <string name="Regístrate">boton_registrar</string>
+    <string name="boton_registrar">Regístrate</string>
+</resources>
